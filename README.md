@@ -7,4 +7,5 @@ A classic Snake Game implemented in Java using the AWT and Swing APIs. The game 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Ragavendhiran-S/Snake-Game
-   cd Snake-Game
+   cd src
+   Run **SnakeGame.java** from src 
